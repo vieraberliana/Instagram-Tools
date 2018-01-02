@@ -1,6 +1,6 @@
-####### Instagram-Tools #######<br>
-Thanks for ccocot and SGB-TEAM<br>
-############################<br>
+<center>####### Instagram-Tools #######</center><br>
+<center>Thanks for ccocot and SGB-TEAM</center><br>
+<center>############################</center><br>
 
 Tools :
 => Node V8 (Cek Website Resmi)

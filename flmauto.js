@@ -201,4 +201,4 @@ inquirer.prompt(User)
 			username:answers.username,
 			password:answers.password
 		},answers.target,text,answers.sleep);
-	})
+})
